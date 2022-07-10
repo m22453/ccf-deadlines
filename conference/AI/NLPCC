@@ -1,0 +1,15 @@
+- title: NLPCC
+  description: Natural Language Processing and Chinese Computing
+  sub: AI
+  rank: C
+  dblp: nlpcc
+  confs:
+    - year: 2022
+      id: nlpcc22
+      link: http://tcci.ccf.org.cn/conference/2022/index.php
+      timeline:
+        - deadline: '2022-05-13 23:59:59'
+          comment: ''
+      timezone: UTC-8
+      date: September 24-25, 2022
+      place: Guilin, China
